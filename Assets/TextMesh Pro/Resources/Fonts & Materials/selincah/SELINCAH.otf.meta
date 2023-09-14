@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ced820b60df86fe4ea6d5c8eb80beb4c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SELINCAH
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b970db6076bae934dbb09072fc76cf67, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+{
+  "projectFileVersion": 2,
+  "sourceFiles": [
+    "GameDialogue.yarn"
+  ],
+  "excludeFiles": [],
+  "localisation": {},
+  "baseLanguage": "en",
+  "compilerOptions": {}
+}

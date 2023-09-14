@@ -1,0 +1,86 @@
+﻿title: LockGetItems
+---
+This is the place alright.
+But first I should unpack the equipment they gave me.
+<<UnpausePlayer>>
+===
+
+title: CannonIntro
+---
+This is the Cannon!
+<<Box3CleanUP>>
+===
+
+title: DetectorIntro
+---
+This is the Detector!
+<<Box1CleanUP>>
+===
+
+title: MineIntro
+---
+This is the Mine!
+<<Box2CleanUP>>
+===
+
+
+title: ItemBlocked
+---
+<<PausePlayer>>
+ItemBlocked!
+<<UnpausePlayer>>
+===
+
+
+title: AxeBlocked
+---
+<<PausePlayer>>
+AxeBlocked!
+<<UnpausePlayer>>
+===
+
+title: MansionBlocked
+---
+<<PausePlayer>>
+MansionBlocked!
+<<UnpausePlayer>>
+===
+
+title: KeyBlocked
+---
+<<PausePlayer>>
+More of that dark energy?
+What could they be hiding in here?
+Whatever it is I must deal with the ghost in here before I can find out!
+<<UnpausePlayer>>
+===
+
+title: GetAxe
+---
+<<PausePlayer>>
+Get the Axe!
+<<UnpausePlayer>>
+===
+
+title: EnergyBlockingLock
+---
+<<PausePlayer>>
+Dark energy is preventing me from getting into the greenhouse!
+I must first deal with the ghosts!
+<<UnpausePlayer>>
+===
+
+title: Maze
+---
+<<PausePlayer>>
+Thats Odd!
+Look for another way!
+<<UnpausePlayer>>
+===
+
+title: VampireTrap
+---
+<<PausePlayer>>
+Unknown Voice: Hello
+<<StartEnding>>
+===
