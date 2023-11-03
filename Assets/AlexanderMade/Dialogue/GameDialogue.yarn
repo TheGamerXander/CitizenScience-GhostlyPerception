@@ -1,33 +1,70 @@
 ﻿title: LockGetItems
 ---
-This is the place alright.
-But first I should unpack the equipment they gave me.
+This is the place alright!
+Rats, I left the equipment in the truck.
 <<UnpausePlayer>>
 ===
 
 title: CannonIntro
 ---
-This is the Cannon!
+This is the Cannon! Ok what do the instructions say again?
+Instructions: "The G.C.C.C. is used for the capture and containment of ghosts."
+Instructions: "It can be selected by pressing 1"
+Instructions: "Aim by moving the mouse. Left click the mouse to fire."
+Instructions: "After being hit, a ghost is likely to retaliate."
+Instructions: "Note: While a ghost is protecting themselves with red energy they can not be damaged."
+Instructions: "Once sufficiently weakend a ghost will be restrained within a containment orb."
+Instructions: "While the ghost is restrained within an orb, hold down the right mouse button to capture the ghost"
 <<Box3CleanUP>>
 ===
 
 title: DetectorIntro
 ---
-This is the Detector!
+Might as well reread the instructions.
+Instructions: "The Ghost Detector can be selected by pressing 2."
+Instructions: "Be assured, this complex marvel of esoteric engineering works automatically when held."
+Instructions: "The indicator shows how close you are to a ghost,s ley line."
+Instructions: "If indicator is in the green, congratulations your vicinity is not haunted."
+Instructions: "If the indicator is yellow you are in a haunted area, if it turns amber you are getting near to a ghosts lay line."
+Instructions: "If the if the indicator shows that deep red it means that you are in the ideal spot to deploy a mine and disrupt the ghosts ectoplasm."
+Instructions: "Doing so will cause the ghost to become visable."
 <<Box1CleanUP>>
 ===
 
 title: MineIntro
 ---
-This is the Mine!
+Ow yes! The mines!
+I should really doublecheck how to use them correctly...
+Instructions: "The Ectoplasmic Disruptor Mine can be selected by pressing 3."
+Instructions: "Once held, a mine can be deployed by clicking the left mouse button."
+Instructions: "After deploying the mine you will automaticaly switch to the triggering device."
+Instructions: "By pressing the right mouse button with the trigger equipped the mine will detonate afer a shot delay."
 <<Box2CleanUP>>
 ===
 
 
-title: ItemBlocked
+title: SecondDarkEnergy
 ---
 <<PausePlayer>>
-ItemBlocked!
+What? more of that dark energy?
+A ghost must be in here and is protecting something in there. It could be important.
+Let's get them and figure it out!
+<<UnpausePlayer>>
+===
+
+title: AcquiringAxe
+---
+<<PausePlayer>>
+Yes this should break that lock.
+<<UnpausePlayer>>
+===
+
+
+title: AcquiringKey
+---
+<<PausePlayer>>
+Argh! Its cold and slimy!
+It looks like it's a key to the mansion though.
 <<UnpausePlayer>>
 ===
 
@@ -35,14 +72,14 @@ ItemBlocked!
 title: AxeBlocked
 ---
 <<PausePlayer>>
-AxeBlocked!
+I'm sure glad ghosts can't use axes. But it's good to know it's here.
 <<UnpausePlayer>>
 ===
 
 title: MansionBlocked
 ---
 <<PausePlayer>>
-MansionBlocked!
+Why's the key not working? Hope there is another way in.
 <<UnpausePlayer>>
 ===
 
@@ -58,7 +95,9 @@ Whatever it is I must deal with the ghost in here before I can find out!
 title: GetAxe
 ---
 <<PausePlayer>>
-Get the Axe!
+Well that's the metaphysical energy down but there is still the physical matter of lock.
+Sure looks rusty though...
+Maybe there is something in the toolshed that I can use.
 <<UnpausePlayer>>
 ===
 
@@ -66,21 +105,25 @@ title: EnergyBlockingLock
 ---
 <<PausePlayer>>
 Dark energy is preventing me from getting into the greenhouse!
-I must first deal with the ghosts!
+From what I remember reading about it, getting rid of the ghosts outside might take care of it.
 <<UnpausePlayer>>
 ===
 
 title: Maze
 ---
 <<PausePlayer>>
-Thats Odd!
-Look for another way!
+What the....!
+Something's trying to keep me out.
+There must be another way.
 <<UnpausePlayer>>
 ===
 
 title: VampireTrap
 ---
 <<PausePlayer>>
-Unknown Voice: Hello
+Unknown Voice: Why... Aren't you an apptizing one.
+Unknown Voice: And a kind one at that, freeing me from my jailers.
+Unknown Voice: Why dont you bring yourself to me?
+Unknown Voice: Now!
 <<StartEnding>>
 ===

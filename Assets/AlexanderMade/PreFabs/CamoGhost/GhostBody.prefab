@@ -179,10 +179,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 452fa364b516e8e4bb0a5dfe7f1377de, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  camoDummy: {fileID: 0}
   camoDazzleDummy: {fileID: 0}
-  camoPrefabs: []
+  camoLowSigmaPrefabs: []
+  camoMediumSigmaPrefabs: []
+  camoHighSigmaPrefabs: []
+  camoPrefabsInUse: []
   camoGhostBody: {fileID: 1759628253714202131}
+  previousCamoSpeedDataList: []
 --- !u!1 &8982037010133977568
 GameObject:
   m_ObjectHideFlags: 0
